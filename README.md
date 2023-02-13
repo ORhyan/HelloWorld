@@ -4,3 +4,5 @@
 Repositório criado durante uma aula sobre o GitHub!
 
 Essa linha, eu adicionei diretamente pelo Site do GitHub.
+
+Aula 10! *Aprendendo* a **Linguagem MarkDown!!!**
